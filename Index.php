@@ -6,7 +6,8 @@
 </head>
 <body>
 <h1> 
-This is fun limo
+Pick a username
 </h1>
+<input type="text" placeholder="pick a username">
 </body>
 </html>
