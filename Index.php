@@ -3,6 +3,7 @@
 <html>
 <head>
 <title>Mimi's Messenger</title>
+<link href="Rainbow.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <h1> 
